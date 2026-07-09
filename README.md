@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/surajyadav21/DSA-Series/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/surajyadav21/DSA-Series/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/surajyadav21/DSA-Series/tree/master/0014-longest-common-prefix) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/surajyadav21/DSA-Series/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -42,4 +43,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/surajyadav21/DSA-Series/tree/master/0011-container-with-most-water) |
+## Binary Search
+|  |
+| ------- |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/surajyadav21/DSA-Series/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 <!---LeetCode Topics End-->
