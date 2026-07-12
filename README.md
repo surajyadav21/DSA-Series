@@ -11,10 +11,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/surajyadav21/DSA-Series/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/surajyadav21/DSA-Series/tree/master/0015-3sum) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/surajyadav21/DSA-Series/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [1331-rank-transform-of-an-array](https://github.com/surajyadav21/DSA-Series/tree/master/1331-rank-transform-of-an-array) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/surajyadav21/DSA-Series/tree/master/0001-two-sum) |
+| [1331-rank-transform-of-an-array](https://github.com/surajyadav21/DSA-Series/tree/master/1331-rank-transform-of-an-array) |
 ## Linked List
 |  |
 | ------- |
@@ -55,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/surajyadav21/DSA-Series/tree/master/0015-3sum) |
+| [1331-rank-transform-of-an-array](https://github.com/surajyadav21/DSA-Series/tree/master/1331-rank-transform-of-an-array) |
 ## Dynamic Programming
 |  |
 | ------- |
