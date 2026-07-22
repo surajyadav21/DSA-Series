@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0747-largest-number-at-least-twice-of-others](https://github.com/surajyadav21/DSA-Series/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [1331-rank-transform-of-an-array](https://github.com/surajyadav21/DSA-Series/tree/master/1331-rank-transform-of-an-array) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/surajyadav21/DSA-Series/tree/master/3232-find-if-digit-game-can-be-won) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/surajyadav21/DSA-Series/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Hash Table
 |  |
 | ------- |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/surajyadav21/DSA-Series/tree/master/0009-palindrome-number) |
 | [0268-missing-number](https://github.com/surajyadav21/DSA-Series/tree/master/0268-missing-number) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/surajyadav21/DSA-Series/tree/master/3232-find-if-digit-game-can-be-won) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/surajyadav21/DSA-Series/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Recursion
 |  |
 | ------- |
