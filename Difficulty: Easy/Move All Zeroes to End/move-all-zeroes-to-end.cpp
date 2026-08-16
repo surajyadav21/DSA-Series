@@ -2,14 +2,23 @@ class Solution {
   public:
     void pushZerosToEnd(vector<int>& arr) {
         // code here
-        int left = 0;
-        int right = 0;
-        while(right<arr.size()){
-            if(arr[right] != 0){
-                swap(arr[right],arr[left]);
-                left++;
+        int j = -1;
+        for(int i=0; i<arr.size(); i++){
+            if(arr[i] == 0){
+                j=i;
+                break;
             }
-            right++;
         }
+        if(j == -1){
+            return;
+        }
+        
+        for(int i=j+1; i<arr.size(); i++){
+            if(arr[i] != 0){
+                swap(arr[j], arr[i]);
+                j++;
+            }
+        }
+        
     }
 };
