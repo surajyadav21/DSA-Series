@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/surajyadav21/DSA-Series/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/surajyadav21/DSA-Series/tree/master/0283-move-zeroes) |
 | [0414-third-maximum-number](https://github.com/surajyadav21/DSA-Series/tree/master/0414-third-maximum-number) |
+| [0485-max-consecutive-ones](https://github.com/surajyadav21/DSA-Series/tree/master/0485-max-consecutive-ones) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/surajyadav21/DSA-Series/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0867-transpose-matrix](https://github.com/surajyadav21/DSA-Series/tree/master/0867-transpose-matrix) |
 | [1331-rank-transform-of-an-array](https://github.com/surajyadav21/DSA-Series/tree/master/1331-rank-transform-of-an-array) |
