@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/surajyadav21/DSA-Series/tree/master/1331-rank-transform-of-an-array) |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/surajyadav21/DSA-Series/tree/master/1380-lucky-numbers-in-a-matrix) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/surajyadav21/DSA-Series/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/surajyadav21/DSA-Series/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/surajyadav21/DSA-Series/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/surajyadav21/DSA-Series/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Hash Table
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/surajyadav21/DSA-Series/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/surajyadav21/DSA-Series/tree/master/0268-missing-number) |
 | [1331-rank-transform-of-an-array](https://github.com/surajyadav21/DSA-Series/tree/master/1331-rank-transform-of-an-array) |
+| [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/surajyadav21/DSA-Series/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 ## Linked List
 |  |
 | ------- |
@@ -108,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/surajyadav21/DSA-Series/tree/master/0268-missing-number) |
+| [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/surajyadav21/DSA-Series/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 ## Enumeration
 |  |
 | ------- |
