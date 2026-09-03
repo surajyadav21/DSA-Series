@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/surajyadav21/DSA-Series/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/surajyadav21/DSA-Series/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/surajyadav21/DSA-Series/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+| [3875-construct-uniform-parity-array-i](https://github.com/surajyadav21/DSA-Series/tree/master/3875-construct-uniform-parity-array-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/surajyadav21/DSA-Series/tree/master/0412-fizz-buzz) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/surajyadav21/DSA-Series/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/surajyadav21/DSA-Series/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+| [3875-construct-uniform-parity-array-i](https://github.com/surajyadav21/DSA-Series/tree/master/3875-construct-uniform-parity-array-i) |
 ## Recursion
 |  |
 | ------- |
