@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/surajyadav21/DSA-Series/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/surajyadav21/DSA-Series/tree/master/0035-search-insert-position) |
 | [0088-merge-sorted-array](https://github.com/surajyadav21/DSA-Series/tree/master/0088-merge-sorted-array) |
+| [0152-maximum-product-subarray](https://github.com/surajyadav21/DSA-Series/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/surajyadav21/DSA-Series/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0169-majority-element](https://github.com/surajyadav21/DSA-Series/tree/master/0169-majority-element) |
 | [0204-count-primes](https://github.com/surajyadav21/DSA-Series/tree/master/0204-count-primes) |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/surajyadav21/DSA-Series/tree/master/0005-longest-palindromic-substring) |
+| [0152-maximum-product-subarray](https://github.com/surajyadav21/DSA-Series/tree/master/0152-maximum-product-subarray) |
 ## Bit Manipulation
 |  |
 | ------- |
