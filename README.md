@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/surajyadav21/DSA-Series/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/surajyadav21/DSA-Series/tree/master/0009-palindrome-number) |
+| [0070-climbing-stairs](https://github.com/surajyadav21/DSA-Series/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/surajyadav21/DSA-Series/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/surajyadav21/DSA-Series/tree/master/0204-count-primes) |
 | [0268-missing-number](https://github.com/surajyadav21/DSA-Series/tree/master/0268-missing-number) |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/surajyadav21/DSA-Series/tree/master/0005-longest-palindromic-substring) |
+| [0070-climbing-stairs](https://github.com/surajyadav21/DSA-Series/tree/master/0070-climbing-stairs) |
 | [0152-maximum-product-subarray](https://github.com/surajyadav21/DSA-Series/tree/master/0152-maximum-product-subarray) |
 ## Bit Manipulation
 |  |
@@ -156,4 +158,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0412-fizz-buzz](https://github.com/surajyadav21/DSA-Series/tree/master/0412-fizz-buzz) |
 | [0867-transpose-matrix](https://github.com/surajyadav21/DSA-Series/tree/master/0867-transpose-matrix) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/surajyadav21/DSA-Series/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
