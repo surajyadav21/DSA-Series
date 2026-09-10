@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/surajyadav21/DSA-Series/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/surajyadav21/DSA-Series/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0169-majority-element](https://github.com/surajyadav21/DSA-Series/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/surajyadav21/DSA-Series/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/surajyadav21/DSA-Series/tree/master/0204-count-primes) |
 | [0217-contains-duplicate](https://github.com/surajyadav21/DSA-Series/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/surajyadav21/DSA-Series/tree/master/0268-missing-number) |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/surajyadav21/DSA-Series/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/surajyadav21/DSA-Series/tree/master/0009-palindrome-number) |
+| [0189-rotate-array](https://github.com/surajyadav21/DSA-Series/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/surajyadav21/DSA-Series/tree/master/0204-count-primes) |
 | [0268-missing-number](https://github.com/surajyadav21/DSA-Series/tree/master/0268-missing-number) |
 | [0412-fizz-buzz](https://github.com/surajyadav21/DSA-Series/tree/master/0412-fizz-buzz) |
@@ -82,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/surajyadav21/DSA-Series/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/surajyadav21/DSA-Series/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/surajyadav21/DSA-Series/tree/master/0088-merge-sorted-array) |
+| [0189-rotate-array](https://github.com/surajyadav21/DSA-Series/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/surajyadav21/DSA-Series/tree/master/0283-move-zeroes) |
 | [0345-reverse-vowels-of-a-string](https://github.com/surajyadav21/DSA-Series/tree/master/0345-reverse-vowels-of-a-string) |
 ## Greedy
