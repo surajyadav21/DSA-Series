@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1380-lucky-numbers-in-a-matrix](https://github.com/surajyadav21/DSA-Series/tree/master/1380-lucky-numbers-in-a-matrix) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/surajyadav21/DSA-Series/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/surajyadav21/DSA-Series/tree/master/2410-maximum-matching-of-players-with-trainers) |
+| [3028-ant-on-the-boundary](https://github.com/surajyadav21/DSA-Series/tree/master/3028-ant-on-the-boundary) |
 | [3038-maximum-number-of-operations-with-the-same-score-i](https://github.com/surajyadav21/DSA-Series/tree/master/3038-maximum-number-of-operations-with-the-same-score-i) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/surajyadav21/DSA-Series/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/surajyadav21/DSA-Series/tree/master/3232-find-if-digit-game-can-be-won) |
@@ -163,9 +164,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0412-fizz-buzz](https://github.com/surajyadav21/DSA-Series/tree/master/0412-fizz-buzz) |
 | [0867-transpose-matrix](https://github.com/surajyadav21/DSA-Series/tree/master/0867-transpose-matrix) |
+| [3028-ant-on-the-boundary](https://github.com/surajyadav21/DSA-Series/tree/master/3028-ant-on-the-boundary) |
 | [3038-maximum-number-of-operations-with-the-same-score-i](https://github.com/surajyadav21/DSA-Series/tree/master/3038-maximum-number-of-operations-with-the-same-score-i) |
 ## Memoization
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/surajyadav21/DSA-Series/tree/master/0070-climbing-stairs) |
+## Prefix Sum
+|  |
+| ------- |
+| [3028-ant-on-the-boundary](https://github.com/surajyadav21/DSA-Series/tree/master/3028-ant-on-the-boundary) |
 <!---LeetCode Topics End-->
