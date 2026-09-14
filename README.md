@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/surajyadav21/DSA-Series/tree/master/0005-longest-palindromic-substring) |
 | [0014-longest-common-prefix](https://github.com/surajyadav21/DSA-Series/tree/master/0014-longest-common-prefix) |
+| [0058-length-of-last-word](https://github.com/surajyadav21/DSA-Series/tree/master/0058-length-of-last-word) |
 | [0345-reverse-vowels-of-a-string](https://github.com/surajyadav21/DSA-Series/tree/master/0345-reverse-vowels-of-a-string) |
 | [0412-fizz-buzz](https://github.com/surajyadav21/DSA-Series/tree/master/0412-fizz-buzz) |
 ## Trie
