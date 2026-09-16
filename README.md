@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/surajyadav21/DSA-Series/tree/master/0088-merge-sorted-array) |
 | [0152-maximum-product-subarray](https://github.com/surajyadav21/DSA-Series/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/surajyadav21/DSA-Series/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/surajyadav21/DSA-Series/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/surajyadav21/DSA-Series/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/surajyadav21/DSA-Series/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/surajyadav21/DSA-Series/tree/master/0204-count-primes) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/surajyadav21/DSA-Series/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/surajyadav21/DSA-Series/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/surajyadav21/DSA-Series/tree/master/0088-merge-sorted-array) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/surajyadav21/DSA-Series/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/surajyadav21/DSA-Series/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/surajyadav21/DSA-Series/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/surajyadav21/DSA-Series/tree/master/0344-reverse-string) |
@@ -108,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0035-search-insert-position](https://github.com/surajyadav21/DSA-Series/tree/master/0035-search-insert-position) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/surajyadav21/DSA-Series/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/surajyadav21/DSA-Series/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/surajyadav21/DSA-Series/tree/master/0268-missing-number) |
 ## Sorting
 |  |
