@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/surajyadav21/DSA-Series/tree/master/0204-count-primes) |
 | [0268-missing-number](https://github.com/surajyadav21/DSA-Series/tree/master/0268-missing-number) |
 | [0412-fizz-buzz](https://github.com/surajyadav21/DSA-Series/tree/master/0412-fizz-buzz) |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/surajyadav21/DSA-Series/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1486-xor-operation-in-an-array](https://github.com/surajyadav21/DSA-Series/tree/master/1486-xor-operation-in-an-array) |
 | [2652-sum-multiples](https://github.com/surajyadav21/DSA-Series/tree/master/2652-sum-multiples) |
 | [2769-find-the-maximum-achievable-number](https://github.com/surajyadav21/DSA-Series/tree/master/2769-find-the-maximum-achievable-number) |
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0190-reverse-bits](https://github.com/surajyadav21/DSA-Series/tree/master/0190-reverse-bits) |
 | [0268-missing-number](https://github.com/surajyadav21/DSA-Series/tree/master/0268-missing-number) |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/surajyadav21/DSA-Series/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1486-xor-operation-in-an-array](https://github.com/surajyadav21/DSA-Series/tree/master/1486-xor-operation-in-an-array) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/surajyadav21/DSA-Series/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 ## Enumeration
