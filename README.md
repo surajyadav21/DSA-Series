@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/surajyadav21/DSA-Series/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1480-running-sum-of-1d-array](https://github.com/surajyadav21/DSA-Series/tree/master/1480-running-sum-of-1d-array) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/surajyadav21/DSA-Series/tree/master/1848-minimum-distance-to-the-target-element) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/surajyadav21/DSA-Series/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/surajyadav21/DSA-Series/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [3028-ant-on-the-boundary](https://github.com/surajyadav21/DSA-Series/tree/master/3028-ant-on-the-boundary) |
 | [3038-maximum-number-of-operations-with-the-same-score-i](https://github.com/surajyadav21/DSA-Series/tree/master/3038-maximum-number-of-operations-with-the-same-score-i) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/surajyadav21/DSA-Series/tree/master/0412-fizz-buzz) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/surajyadav21/DSA-Series/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1486-xor-operation-in-an-array](https://github.com/surajyadav21/DSA-Series/tree/master/1486-xor-operation-in-an-array) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/surajyadav21/DSA-Series/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2469-convert-the-temperature](https://github.com/surajyadav21/DSA-Series/tree/master/2469-convert-the-temperature) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/surajyadav21/DSA-Series/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [2652-sum-multiples](https://github.com/surajyadav21/DSA-Series/tree/master/2652-sum-multiples) |
@@ -160,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/surajyadav21/DSA-Series/tree/master/0204-count-primes) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/surajyadav21/DSA-Series/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -207,4 +210,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/surajyadav21/DSA-Series/tree/master/0075-sort-colors) |
+## Euclidean Algorithm
+|  |
+| ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/surajyadav21/DSA-Series/tree/master/1979-find-greatest-common-divisor-of-array) |
+## Greatest Common Divisor
+|  |
+| ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/surajyadav21/DSA-Series/tree/master/1979-find-greatest-common-divisor-of-array) |
 <!---LeetCode Topics End-->
