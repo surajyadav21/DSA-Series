@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/surajyadav21/DSA-Series/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1486-xor-operation-in-an-array](https://github.com/surajyadav21/DSA-Series/tree/master/1486-xor-operation-in-an-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/surajyadav21/DSA-Series/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2235-add-two-integers](https://github.com/surajyadav21/DSA-Series/tree/master/2235-add-two-integers) |
 | [2469-convert-the-temperature](https://github.com/surajyadav21/DSA-Series/tree/master/2469-convert-the-temperature) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/surajyadav21/DSA-Series/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [2652-sum-multiples](https://github.com/surajyadav21/DSA-Series/tree/master/2652-sum-multiples) |
