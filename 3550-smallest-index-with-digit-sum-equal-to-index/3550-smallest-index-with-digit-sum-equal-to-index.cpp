@@ -1,19 +1,18 @@
 class Solution {
 public:
-    int func(int a){
-        int sum =0;
-        while(a>0){ 
-        int dig = a%10;
-            sum +=dig;
-            a /= 10;
-        }
-        return sum;  
-    }
     int smallestIndex(vector<int>& nums) {
-        
-        for(int i=0; i<nums.size(); i++){
-            int ans = func(nums[i]);
-            if(ans == i) return i;
+        int n = nums.size();
+        for(int i=0; i<n; i++){
+            int cur = nums[i];
+            int sum = 0;
+            while(cur > 0){
+                int dig = cur % 10;
+                cur /= 10;
+                sum += dig;
+            }
+            if(sum == i){
+                return i;
+            }
         }
         return -1;
     }
