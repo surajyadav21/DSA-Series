@@ -1,32 +1,22 @@
 class Solution {
 public:
     string reverseVowels(string s) {
-        int n = s.size();
-
-        int i = 0;
-        int j = n - 1;
-
-        auto isVowel = [&](char c) -> bool {
-            c = tolower(c);
-
-            return c == 'a' || c == 'e' ||
-                   c == 'i' || c == 'o' ||
-                   c == 'u';
-        };
-
-        while(i < j) {
-
-            while(i < j && !isVowel(s[i]))
-                i++;
-
-            while(i < j && !isVowel(s[j]))
-                j--;
-
-            swap(s[i], s[j]);
-            i++;
-            j--;
-        }
-
-        return s;
+       string str = ""; 
+       for(int i=0; i<s.length(); i++){
+        if(s[i]=='a'||s[i]=='e'||s[i]=='i'||s[i]=='o'||s[i]=='u'||
+           s[i]=='A'||s[i]=='E'||s[i]=='I'||s[i]=='O'||s[i]=='U'){
+            str += s[i]; 
+           }
+       } 
+       reverse(str.begin(), str.end());
+       int j=0;
+       for(int i=0; i<s.length(); i++){
+        if(s[i]=='a'||s[i]=='e'||s[i]=='i'||s[i]=='o'||s[i]=='u'||
+           s[i]=='A'||s[i]=='E'||s[i]=='I'||s[i]=='O'||s[i]=='U'){
+            s[i] = str[j];
+            j++;
+           }
+       }
+       return s;
     }
 };
