@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/surajyadav21/DSA-Series/tree/master/0005-longest-palindromic-substring) |
 | [0014-longest-common-prefix](https://github.com/surajyadav21/DSA-Series/tree/master/0014-longest-common-prefix) |
+| [0020-valid-parentheses](https://github.com/surajyadav21/DSA-Series/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/surajyadav21/DSA-Series/tree/master/0058-length-of-last-word) |
 | [0344-reverse-string](https://github.com/surajyadav21/DSA-Series/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/surajyadav21/DSA-Series/tree/master/0345-reverse-vowels-of-a-string) |
@@ -273,4 +274,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/surajyadav21/DSA-Series/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/surajyadav21/DSA-Series/tree/master/0142-linked-list-cycle-ii) |
 | [0287-find-the-duplicate-number](https://github.com/surajyadav21/DSA-Series/tree/master/0287-find-the-duplicate-number) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/surajyadav21/DSA-Series/tree/master/0020-valid-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/surajyadav21/DSA-Series/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
