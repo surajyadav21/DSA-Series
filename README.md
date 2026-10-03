@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1380-lucky-numbers-in-a-matrix](https://github.com/surajyadav21/DSA-Series/tree/master/1380-lucky-numbers-in-a-matrix) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/surajyadav21/DSA-Series/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1480-running-sum-of-1d-array](https://github.com/surajyadav21/DSA-Series/tree/master/1480-running-sum-of-1d-array) |
+| [1572-matrix-diagonal-sum](https://github.com/surajyadav21/DSA-Series/tree/master/1572-matrix-diagonal-sum) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/surajyadav21/DSA-Series/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/surajyadav21/DSA-Series/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/surajyadav21/DSA-Series/tree/master/2410-maximum-matching-of-players-with-trainers) |
@@ -217,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0867-transpose-matrix](https://github.com/surajyadav21/DSA-Series/tree/master/0867-transpose-matrix) |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/surajyadav21/DSA-Series/tree/master/1380-lucky-numbers-in-a-matrix) |
+| [1572-matrix-diagonal-sum](https://github.com/surajyadav21/DSA-Series/tree/master/1572-matrix-diagonal-sum) |
 | [2965-find-missing-and-repeated-values](https://github.com/surajyadav21/DSA-Series/tree/master/2965-find-missing-and-repeated-values) |
 ## Divide and Conquer
 |  |
