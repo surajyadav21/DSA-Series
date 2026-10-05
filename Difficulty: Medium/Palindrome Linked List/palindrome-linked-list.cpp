@@ -13,19 +13,28 @@ class Node {
 class Solution {
   public:
     bool isPalindrome(Node *head) {
-        Node* temp = head;
-        vector<int> v;
-        while(temp != NULL){
-            v.push_back(temp->data);
-            temp = temp->next;
+        Node* slow = head;
+        Node* fast = head;
+        while(fast!=NULL && fast->next!=NULL){
+            slow = slow->next;
+            fast = fast->next->next;
         }
-        int l=0, r=v.size()-1;
-        while(l<r){
-            if(v[l] != v[r]){
+        Node* cur = slow;
+        Node* prev = NULL;
+        while(cur != NULL){
+            Node* t = cur->next;
+            cur->next = prev;
+            prev = cur;
+            cur = t;
+        }
+        Node* p = head;
+        Node* q = prev;
+        while(q != NULL){
+            if(p->data != q->data){
                 return false;
-            }else{
-                l++; r--;
             }
+            p = p->next;
+            q = q->next;
         }
         return true;
     }
