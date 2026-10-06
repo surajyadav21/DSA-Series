@@ -25,11 +25,9 @@ public:
         while(t->next != NULL){
             t = t->next;
         }
-        cout<<l<<endl;
         t->next = head;
         k = k % l;
         for(int i=1; i<l-k; i++){
-            cout<<temp->val;
             temp = temp->next;
         }
 
