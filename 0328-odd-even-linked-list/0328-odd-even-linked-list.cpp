@@ -14,28 +14,16 @@ public:
         if(head==NULL || head->next==NULL){
             return head;
         }
-        vector<ListNode*> odd;
-        vector<ListNode*> even;
-        ListNode* cur = head;
-        int pos = 1;
-        while(cur != NULL){
-            if(pos%2==1){
-                odd.push_back(cur);
-            }
-            else{
-                even.push_back(cur);
-            }
-            cur = cur->next;
-            pos++;
+        ListNode* odd = head;
+        ListNode* even = head->next;
+        ListNode* t = even;
+        while(even!=NULL && even->next!=NULL){
+            odd->next = even->next;
+            odd = odd->next;
+            even->next = odd->next;
+            even = even->next;
         }
-        for(int i=0; i<odd.size()-1; i++){
-            odd[i]->next = odd[i+1];
-        }
-        for(int i=0; i<even.size()-1; i++){
-            even[i]->next = even[i+1];
-        }
-        odd[odd.size()-1]->next = even[0];
-        even[even.size()-1]->next = NULL;
+        odd->next = t;
         return head;
     }
 };
