@@ -14,20 +14,25 @@ public:
         if(head==NULL || head->next==NULL){
             return head;
         }
+        int l=0;
         ListNode* temp = head;
-        vector<ListNode*> v;
-        int l = 0;
         while(temp != NULL){
             l++;
-            v.push_back(temp);
             temp = temp->next;
         }
-        k %= l;
-        v[v.size()-1]->next = v[0];
         temp = head;
-        for(int i=1; i<v.size()-k; i++){
+        ListNode* t = head;
+        while(t->next != NULL){
+            t = t->next;
+        }
+        cout<<l<<endl;
+        t->next = head;
+        k = k % l;
+        for(int i=1; i<l-k; i++){
+            cout<<temp->val;
             temp = temp->next;
         }
+
         head = temp->next;
         temp->next = NULL;
         return head;
