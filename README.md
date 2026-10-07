@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0747-largest-number-at-least-twice-of-others](https://github.com/surajyadav21/DSA-Series/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0867-transpose-matrix](https://github.com/surajyadav21/DSA-Series/tree/master/0867-transpose-matrix) |
 | [0977-squares-of-a-sorted-array](https://github.com/surajyadav21/DSA-Series/tree/master/0977-squares-of-a-sorted-array) |
+| [1019-next-greater-node-in-linked-list](https://github.com/surajyadav21/DSA-Series/tree/master/1019-next-greater-node-in-linked-list) |
 | [1331-rank-transform-of-an-array](https://github.com/surajyadav21/DSA-Series/tree/master/1331-rank-transform-of-an-array) |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/surajyadav21/DSA-Series/tree/master/1380-lucky-numbers-in-a-matrix) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/surajyadav21/DSA-Series/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0237-delete-node-in-a-linked-list](https://github.com/surajyadav21/DSA-Series/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/surajyadav21/DSA-Series/tree/master/0328-odd-even-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/surajyadav21/DSA-Series/tree/master/0876-middle-of-the-linked-list) |
+| [1019-next-greater-node-in-linked-list](https://github.com/surajyadav21/DSA-Series/tree/master/1019-next-greater-node-in-linked-list) |
 ## Math
 |  |
 | ------- |
@@ -305,8 +307,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/surajyadav21/DSA-Series/tree/master/0020-valid-parentheses) |
 | [0143-reorder-list](https://github.com/surajyadav21/DSA-Series/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/surajyadav21/DSA-Series/tree/master/0234-palindrome-linked-list) |
+| [1019-next-greater-node-in-linked-list](https://github.com/surajyadav21/DSA-Series/tree/master/1019-next-greater-node-in-linked-list) |
 ## Bracket Sequences
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/surajyadav21/DSA-Series/tree/master/0020-valid-parentheses) |
+## Monotonic Stack
+|  |
+| ------- |
+| [1019-next-greater-node-in-linked-list](https://github.com/surajyadav21/DSA-Series/tree/master/1019-next-greater-node-in-linked-list) |
 <!---LeetCode Topics End-->
