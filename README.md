@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/surajyadav21/DSA-Series/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2574-left-and-right-sum-differences](https://github.com/surajyadav21/DSA-Series/tree/master/2574-left-and-right-sum-differences) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/surajyadav21/DSA-Series/tree/master/2778-sum-of-squares-of-special-elements) |
+| [2942-find-words-containing-character](https://github.com/surajyadav21/DSA-Series/tree/master/2942-find-words-containing-character) |
 | [2965-find-missing-and-repeated-values](https://github.com/surajyadav21/DSA-Series/tree/master/2965-find-missing-and-repeated-values) |
 | [3028-ant-on-the-boundary](https://github.com/surajyadav21/DSA-Series/tree/master/3028-ant-on-the-boundary) |
 | [3038-maximum-number-of-operations-with-the-same-score-i](https://github.com/surajyadav21/DSA-Series/tree/master/3038-maximum-number-of-operations-with-the-same-score-i) |
@@ -167,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/surajyadav21/DSA-Series/tree/master/0412-fizz-buzz) |
 | [1446-consecutive-characters](https://github.com/surajyadav21/DSA-Series/tree/master/1446-consecutive-characters) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/surajyadav21/DSA-Series/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [2942-find-words-containing-character](https://github.com/surajyadav21/DSA-Series/tree/master/2942-find-words-containing-character) |
 ## Trie
 |  |
 | ------- |
