@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/surajyadav21/DSA-Series/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/surajyadav21/DSA-Series/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/surajyadav21/DSA-Series/tree/master/3232-find-if-digit-game-can-be-won) |
+| [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/surajyadav21/DSA-Series/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/surajyadav21/DSA-Series/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/surajyadav21/DSA-Series/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/surajyadav21/DSA-Series/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2965-find-missing-and-repeated-values](https://github.com/surajyadav21/DSA-Series/tree/master/2965-find-missing-and-repeated-values) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/surajyadav21/DSA-Series/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/surajyadav21/DSA-Series/tree/master/3232-find-if-digit-game-can-be-won) |
+| [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/surajyadav21/DSA-Series/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/surajyadav21/DSA-Series/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/surajyadav21/DSA-Series/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/surajyadav21/DSA-Series/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
@@ -294,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/surajyadav21/DSA-Series/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/surajyadav21/DSA-Series/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 ## Matrix
 |  |
 | ------- |
@@ -328,6 +331,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2149-rearrange-array-elements-by-sign](https://github.com/surajyadav21/DSA-Series/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3028-ant-on-the-boundary](https://github.com/surajyadav21/DSA-Series/tree/master/3028-ant-on-the-boundary) |
 | [3038-maximum-number-of-operations-with-the-same-score-i](https://github.com/surajyadav21/DSA-Series/tree/master/3038-maximum-number-of-operations-with-the-same-score-i) |
+| [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/surajyadav21/DSA-Series/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3701-compute-alternating-sum](https://github.com/surajyadav21/DSA-Series/tree/master/3701-compute-alternating-sum) |
 | [3925-concatenate-array-with-reverse](https://github.com/surajyadav21/DSA-Series/tree/master/3925-concatenate-array-with-reverse) |
 ## Memoization
