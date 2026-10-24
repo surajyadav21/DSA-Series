@@ -163,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/surajyadav21/DSA-Series/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/surajyadav21/DSA-Series/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/surajyadav21/DSA-Series/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+| [3783-mirror-distance-of-an-integer](https://github.com/surajyadav21/DSA-Series/tree/master/3783-mirror-distance-of-an-integer) |
 | [3875-construct-uniform-parity-array-i](https://github.com/surajyadav21/DSA-Series/tree/master/3875-construct-uniform-parity-array-i) |
 ## Recursion
 |  |
