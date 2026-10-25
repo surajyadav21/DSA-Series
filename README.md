@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1480-running-sum-of-1d-array](https://github.com/surajyadav21/DSA-Series/tree/master/1480-running-sum-of-1d-array) |
 | [1512-number-of-good-pairs](https://github.com/surajyadav21/DSA-Series/tree/master/1512-number-of-good-pairs) |
 | [1572-matrix-diagonal-sum](https://github.com/surajyadav21/DSA-Series/tree/master/1572-matrix-diagonal-sum) |
+| [1720-decode-xored-array](https://github.com/surajyadav21/DSA-Series/tree/master/1720-decode-xored-array) |
 | [1748-sum-of-unique-elements](https://github.com/surajyadav21/DSA-Series/tree/master/1748-sum-of-unique-elements) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/surajyadav21/DSA-Series/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1929-concatenation-of-array](https://github.com/surajyadav21/DSA-Series/tree/master/1929-concatenation-of-array) |
@@ -288,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/surajyadav21/DSA-Series/tree/master/0645-set-mismatch) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/surajyadav21/DSA-Series/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1486-xor-operation-in-an-array](https://github.com/surajyadav21/DSA-Series/tree/master/1486-xor-operation-in-an-array) |
+| [1720-decode-xored-array](https://github.com/surajyadav21/DSA-Series/tree/master/1720-decode-xored-array) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/surajyadav21/DSA-Series/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 ## Enumeration
 |  |
