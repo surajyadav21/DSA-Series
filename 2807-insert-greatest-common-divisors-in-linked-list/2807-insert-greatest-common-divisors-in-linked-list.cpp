@@ -12,7 +12,7 @@ class Solution {
 public:
     ListNode* insertGreatestCommonDivisors(ListNode* head) {
         ListNode* cur = head;
-        while(cur != NULL && cur->next != NULL){
+        while(cur->next != NULL){
             ListNode* temp = cur->next;
             int v = 0;
             for(int i=1; i<=temp->val; i++){
