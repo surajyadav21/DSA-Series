@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/surajyadav21/DSA-Series/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/surajyadav21/DSA-Series/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/surajyadav21/DSA-Series/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/surajyadav21/DSA-Series/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/surajyadav21/DSA-Series/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2574-left-and-right-sum-differences](https://github.com/surajyadav21/DSA-Series/tree/master/2574-left-and-right-sum-differences) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/surajyadav21/DSA-Series/tree/master/2778-sum-of-squares-of-special-elements) |
@@ -228,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0876-middle-of-the-linked-list](https://github.com/surajyadav21/DSA-Series/tree/master/0876-middle-of-the-linked-list) |
 | [0977-squares-of-a-sorted-array](https://github.com/surajyadav21/DSA-Series/tree/master/0977-squares-of-a-sorted-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/surajyadav21/DSA-Series/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/surajyadav21/DSA-Series/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/surajyadav21/DSA-Series/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/surajyadav21/DSA-Series/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Greedy
@@ -343,6 +345,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1929-concatenation-of-array](https://github.com/surajyadav21/DSA-Series/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/surajyadav21/DSA-Series/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/surajyadav21/DSA-Series/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/surajyadav21/DSA-Series/tree/master/2161-partition-array-according-to-given-pivot) |
 | [3028-ant-on-the-boundary](https://github.com/surajyadav21/DSA-Series/tree/master/3028-ant-on-the-boundary) |
 | [3038-maximum-number-of-operations-with-the-same-score-i](https://github.com/surajyadav21/DSA-Series/tree/master/3038-maximum-number-of-operations-with-the-same-score-i) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/surajyadav21/DSA-Series/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
