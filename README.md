@@ -136,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0328-odd-even-linked-list](https://github.com/surajyadav21/DSA-Series/tree/master/0328-odd-even-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/surajyadav21/DSA-Series/tree/master/0876-middle-of-the-linked-list) |
 | [1019-next-greater-node-in-linked-list](https://github.com/surajyadav21/DSA-Series/tree/master/1019-next-greater-node-in-linked-list) |
+| [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/surajyadav21/DSA-Series/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 ## Math
 |  |
 | ------- |
@@ -159,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2544-alternating-digit-sum](https://github.com/surajyadav21/DSA-Series/tree/master/2544-alternating-digit-sum) |
 | [2652-sum-multiples](https://github.com/surajyadav21/DSA-Series/tree/master/2652-sum-multiples) |
 | [2769-find-the-maximum-achievable-number](https://github.com/surajyadav21/DSA-Series/tree/master/2769-find-the-maximum-achievable-number) |
+| [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/surajyadav21/DSA-Series/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/surajyadav21/DSA-Series/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 | [2965-find-missing-and-repeated-values](https://github.com/surajyadav21/DSA-Series/tree/master/2965-find-missing-and-repeated-values) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/surajyadav21/DSA-Series/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
@@ -308,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/surajyadav21/DSA-Series/tree/master/0204-count-primes) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/surajyadav21/DSA-Series/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2413-smallest-even-multiple](https://github.com/surajyadav21/DSA-Series/tree/master/2413-smallest-even-multiple) |
+| [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/surajyadav21/DSA-Series/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
