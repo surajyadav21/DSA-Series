@@ -196,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/surajyadav21/DSA-Series/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/surajyadav21/DSA-Series/tree/master/0345-reverse-vowels-of-a-string) |
 | [0412-fizz-buzz](https://github.com/surajyadav21/DSA-Series/tree/master/0412-fizz-buzz) |
+| [0709-to-lower-case](https://github.com/surajyadav21/DSA-Series/tree/master/0709-to-lower-case) |
 | [1108-defanging-an-ip-address](https://github.com/surajyadav21/DSA-Series/tree/master/1108-defanging-an-ip-address) |
 | [1446-consecutive-characters](https://github.com/surajyadav21/DSA-Series/tree/master/1446-consecutive-characters) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/surajyadav21/DSA-Series/tree/master/2011-final-value-of-variable-after-performing-operations) |
