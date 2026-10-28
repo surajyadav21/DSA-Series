@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3731-find-missing-elements](https://github.com/surajyadav21/DSA-Series/tree/master/3731-find-missing-elements) |
 | [3866-first-unique-even-element](https://github.com/surajyadav21/DSA-Series/tree/master/3866-first-unique-even-element) |
 | [3875-construct-uniform-parity-array-i](https://github.com/surajyadav21/DSA-Series/tree/master/3875-construct-uniform-parity-array-i) |
+| [3895-count-digit-appearances](https://github.com/surajyadav21/DSA-Series/tree/master/3895-count-digit-appearances) |
 | [3925-concatenate-array-with-reverse](https://github.com/surajyadav21/DSA-Series/tree/master/3925-concatenate-array-with-reverse) |
 ## Hash Table
 |  |
@@ -177,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3658-gcd-of-odd-and-even-sums](https://github.com/surajyadav21/DSA-Series/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3783-mirror-distance-of-an-integer](https://github.com/surajyadav21/DSA-Series/tree/master/3783-mirror-distance-of-an-integer) |
 | [3875-construct-uniform-parity-array-i](https://github.com/surajyadav21/DSA-Series/tree/master/3875-construct-uniform-parity-array-i) |
+| [3895-count-digit-appearances](https://github.com/surajyadav21/DSA-Series/tree/master/3895-count-digit-appearances) |
 | [3945-digit-frequency-score](https://github.com/surajyadav21/DSA-Series/tree/master/3945-digit-frequency-score) |
 ## Recursion
 |  |
