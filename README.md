@@ -115,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/surajyadav21/DSA-Series/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3668-restore-finishing-order](https://github.com/surajyadav21/DSA-Series/tree/master/3668-restore-finishing-order) |
 | [3731-find-missing-elements](https://github.com/surajyadav21/DSA-Series/tree/master/3731-find-missing-elements) |
+| [3760-maximum-substrings-with-distinct-start](https://github.com/surajyadav21/DSA-Series/tree/master/3760-maximum-substrings-with-distinct-start) |
 | [3866-first-unique-even-element](https://github.com/surajyadav21/DSA-Series/tree/master/3866-first-unique-even-element) |
 | [3945-digit-frequency-score](https://github.com/surajyadav21/DSA-Series/tree/master/3945-digit-frequency-score) |
 ## Linked List
@@ -206,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/surajyadav21/DSA-Series/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2942-find-words-containing-character](https://github.com/surajyadav21/DSA-Series/tree/master/2942-find-words-containing-character) |
 | [3110-score-of-a-string](https://github.com/surajyadav21/DSA-Series/tree/master/3110-score-of-a-string) |
+| [3760-maximum-substrings-with-distinct-start](https://github.com/surajyadav21/DSA-Series/tree/master/3760-maximum-substrings-with-distinct-start) |
 ## Trie
 |  |
 | ------- |
