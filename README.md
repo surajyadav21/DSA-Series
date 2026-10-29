@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2149-rearrange-array-elements-by-sign](https://github.com/surajyadav21/DSA-Series/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/surajyadav21/DSA-Series/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/surajyadav21/DSA-Series/tree/master/2410-maximum-matching-of-players-with-trainers) |
+| [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/surajyadav21/DSA-Series/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2574-left-and-right-sum-differences](https://github.com/surajyadav21/DSA-Series/tree/master/2574-left-and-right-sum-differences) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/surajyadav21/DSA-Series/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/surajyadav21/DSA-Series/tree/master/2798-number-of-employees-who-met-the-target) |
@@ -166,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2413-smallest-even-multiple](https://github.com/surajyadav21/DSA-Series/tree/master/2413-smallest-even-multiple) |
 | [2469-convert-the-temperature](https://github.com/surajyadav21/DSA-Series/tree/master/2469-convert-the-temperature) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/surajyadav21/DSA-Series/tree/master/2520-count-the-digits-that-divide-a-number) |
+| [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/surajyadav21/DSA-Series/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2544-alternating-digit-sum](https://github.com/surajyadav21/DSA-Series/tree/master/2544-alternating-digit-sum) |
 | [2652-sum-multiples](https://github.com/surajyadav21/DSA-Series/tree/master/2652-sum-multiples) |
 | [2769-find-the-maximum-achievable-number](https://github.com/surajyadav21/DSA-Series/tree/master/2769-find-the-maximum-achievable-number) |
