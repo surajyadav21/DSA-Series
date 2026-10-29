@@ -115,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2965-find-missing-and-repeated-values](https://github.com/surajyadav21/DSA-Series/tree/master/2965-find-missing-and-repeated-values) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/surajyadav21/DSA-Series/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/surajyadav21/DSA-Series/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
+| [3541-find-most-frequent-vowel-and-consonant](https://github.com/surajyadav21/DSA-Series/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3668-restore-finishing-order](https://github.com/surajyadav21/DSA-Series/tree/master/3668-restore-finishing-order) |
 | [3731-find-missing-elements](https://github.com/surajyadav21/DSA-Series/tree/master/3731-find-missing-elements) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/surajyadav21/DSA-Series/tree/master/3760-maximum-substrings-with-distinct-start) |
@@ -210,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/surajyadav21/DSA-Series/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2942-find-words-containing-character](https://github.com/surajyadav21/DSA-Series/tree/master/2942-find-words-containing-character) |
 | [3110-score-of-a-string](https://github.com/surajyadav21/DSA-Series/tree/master/3110-score-of-a-string) |
+| [3541-find-most-frequent-vowel-and-consonant](https://github.com/surajyadav21/DSA-Series/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/surajyadav21/DSA-Series/tree/master/3760-maximum-substrings-with-distinct-start) |
 ## Trie
 |  |
@@ -353,6 +355,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1512-number-of-good-pairs](https://github.com/surajyadav21/DSA-Series/tree/master/1512-number-of-good-pairs) |
 | [1748-sum-of-unique-elements](https://github.com/surajyadav21/DSA-Series/tree/master/1748-sum-of-unique-elements) |
 | [3467-transform-array-by-parity](https://github.com/surajyadav21/DSA-Series/tree/master/3467-transform-array-by-parity) |
+| [3541-find-most-frequent-vowel-and-consonant](https://github.com/surajyadav21/DSA-Series/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3866-first-unique-even-element](https://github.com/surajyadav21/DSA-Series/tree/master/3866-first-unique-even-element) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
