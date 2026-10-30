@@ -167,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1688-count-of-matches-in-tournament](https://github.com/surajyadav21/DSA-Series/tree/master/1688-count-of-matches-in-tournament) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/surajyadav21/DSA-Series/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2235-add-two-integers](https://github.com/surajyadav21/DSA-Series/tree/master/2235-add-two-integers) |
+| [2396-strictly-palindromic-number](https://github.com/surajyadav21/DSA-Series/tree/master/2396-strictly-palindromic-number) |
 | [2413-smallest-even-multiple](https://github.com/surajyadav21/DSA-Series/tree/master/2413-smallest-even-multiple) |
 | [2469-convert-the-temperature](https://github.com/surajyadav21/DSA-Series/tree/master/2469-convert-the-temperature) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/surajyadav21/DSA-Series/tree/master/2520-count-the-digits-that-divide-a-number) |
@@ -256,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/surajyadav21/DSA-Series/tree/master/0977-squares-of-a-sorted-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/surajyadav21/DSA-Series/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/surajyadav21/DSA-Series/tree/master/2161-partition-array-according-to-given-pivot) |
+| [2396-strictly-palindromic-number](https://github.com/surajyadav21/DSA-Series/tree/master/2396-strictly-palindromic-number) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/surajyadav21/DSA-Series/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/surajyadav21/DSA-Series/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3794-reverse-string-prefix](https://github.com/surajyadav21/DSA-Series/tree/master/3794-reverse-string-prefix) |
@@ -468,4 +470,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1232-check-if-it-is-a-straight-line](https://github.com/surajyadav21/DSA-Series/tree/master/1232-check-if-it-is-a-straight-line) |
+## Brainteaser
+|  |
+| ------- |
+| [2396-strictly-palindromic-number](https://github.com/surajyadav21/DSA-Series/tree/master/2396-strictly-palindromic-number) |
 <!---LeetCode Topics End-->
