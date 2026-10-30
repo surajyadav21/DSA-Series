@@ -26,6 +26,7 @@ public:
             p = p->next;
             cur = temp;
         }
+        p->next = NULL;
         return dummy->next;
     }
 };
