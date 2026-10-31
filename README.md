@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/surajyadav21/DSA-Series/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/surajyadav21/DSA-Series/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/surajyadav21/DSA-Series/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0389-find-the-difference](https://github.com/surajyadav21/DSA-Series/tree/master/0389-find-the-difference) |
 | [0560-subarray-sum-equals-k](https://github.com/surajyadav21/DSA-Series/tree/master/0560-subarray-sum-equals-k) |
 | [0645-set-mismatch](https://github.com/surajyadav21/DSA-Series/tree/master/0645-set-mismatch) |
 | [0771-jewels-and-stones](https://github.com/surajyadav21/DSA-Series/tree/master/0771-jewels-and-stones) |
@@ -211,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/surajyadav21/DSA-Series/tree/master/0058-length-of-last-word) |
 | [0344-reverse-string](https://github.com/surajyadav21/DSA-Series/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/surajyadav21/DSA-Series/tree/master/0345-reverse-vowels-of-a-string) |
+| [0389-find-the-difference](https://github.com/surajyadav21/DSA-Series/tree/master/0389-find-the-difference) |
 | [0412-fizz-buzz](https://github.com/surajyadav21/DSA-Series/tree/master/0412-fizz-buzz) |
 | [0709-to-lower-case](https://github.com/surajyadav21/DSA-Series/tree/master/0709-to-lower-case) |
 | [0771-jewels-and-stones](https://github.com/surajyadav21/DSA-Series/tree/master/0771-jewels-and-stones) |
@@ -296,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/surajyadav21/DSA-Series/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/surajyadav21/DSA-Series/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/surajyadav21/DSA-Series/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0389-find-the-difference](https://github.com/surajyadav21/DSA-Series/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/surajyadav21/DSA-Series/tree/master/0414-third-maximum-number) |
 | [0645-set-mismatch](https://github.com/surajyadav21/DSA-Series/tree/master/0645-set-mismatch) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/surajyadav21/DSA-Series/tree/master/0747-largest-number-at-least-twice-of-others) |
@@ -325,6 +328,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/surajyadav21/DSA-Series/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/surajyadav21/DSA-Series/tree/master/0287-find-the-duplicate-number) |
 | [0371-sum-of-two-integers](https://github.com/surajyadav21/DSA-Series/tree/master/0371-sum-of-two-integers) |
+| [0389-find-the-difference](https://github.com/surajyadav21/DSA-Series/tree/master/0389-find-the-difference) |
 | [0645-set-mismatch](https://github.com/surajyadav21/DSA-Series/tree/master/0645-set-mismatch) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/surajyadav21/DSA-Series/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1486-xor-operation-in-an-array](https://github.com/surajyadav21/DSA-Series/tree/master/1486-xor-operation-in-an-array) |
