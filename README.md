@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1480-running-sum-of-1d-array](https://github.com/surajyadav21/DSA-Series/tree/master/1480-running-sum-of-1d-array) |
 | [1512-number-of-good-pairs](https://github.com/surajyadav21/DSA-Series/tree/master/1512-number-of-good-pairs) |
 | [1572-matrix-diagonal-sum](https://github.com/surajyadav21/DSA-Series/tree/master/1572-matrix-diagonal-sum) |
+| [1662-check-if-two-string-arrays-are-equivalent](https://github.com/surajyadav21/DSA-Series/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1720-decode-xored-array](https://github.com/surajyadav21/DSA-Series/tree/master/1720-decode-xored-array) |
 | [1748-sum-of-unique-elements](https://github.com/surajyadav21/DSA-Series/tree/master/1748-sum-of-unique-elements) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/surajyadav21/DSA-Series/tree/master/1848-minimum-distance-to-the-target-element) |
@@ -223,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1108-defanging-an-ip-address](https://github.com/surajyadav21/DSA-Series/tree/master/1108-defanging-an-ip-address) |
 | [1446-consecutive-characters](https://github.com/surajyadav21/DSA-Series/tree/master/1446-consecutive-characters) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/surajyadav21/DSA-Series/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1662-check-if-two-string-arrays-are-equivalent](https://github.com/surajyadav21/DSA-Series/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/surajyadav21/DSA-Series/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/surajyadav21/DSA-Series/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2942-find-words-containing-character](https://github.com/surajyadav21/DSA-Series/tree/master/2942-find-words-containing-character) |
