@@ -151,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0328-odd-even-linked-list](https://github.com/surajyadav21/DSA-Series/tree/master/0328-odd-even-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/surajyadav21/DSA-Series/tree/master/0876-middle-of-the-linked-list) |
 | [1019-next-greater-node-in-linked-list](https://github.com/surajyadav21/DSA-Series/tree/master/1019-next-greater-node-in-linked-list) |
+| [1669-merge-in-between-linked-lists](https://github.com/surajyadav21/DSA-Series/tree/master/1669-merge-in-between-linked-lists) |
 | [2181-merge-nodes-in-between-zeros](https://github.com/surajyadav21/DSA-Series/tree/master/2181-merge-nodes-in-between-zeros) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/surajyadav21/DSA-Series/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 ## Math
