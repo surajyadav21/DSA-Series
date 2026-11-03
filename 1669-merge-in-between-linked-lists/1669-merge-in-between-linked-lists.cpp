@@ -16,15 +16,14 @@ public:
         for(int i=0; i<a-1; i++){
             cur1 = cur1->next;
         }
-        for(int i=0; i<b+1; i++){
+        for(int i=0; i<=b; i++){
             cur2 = cur2->next;
         }
-        ListNode* temp = list2;
-        while(temp->next != NULL){
-            temp = temp->next;
-        }
         cur1->next = list2;
-        temp->next = cur2;
+        while(cur1->next != NULL){
+            cur1 = cur1->next;
+        }
+        cur1->next = cur2;
         return list1;
     }
 };
