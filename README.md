@@ -239,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/surajyadav21/DSA-Series/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/surajyadav21/DSA-Series/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/surajyadav21/DSA-Series/tree/master/2125-number-of-laser-beams-in-a-bank) |
+| [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/surajyadav21/DSA-Series/tree/master/2914-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [2942-find-words-containing-character](https://github.com/surajyadav21/DSA-Series/tree/master/2942-find-words-containing-character) |
 | [3110-score-of-a-string](https://github.com/surajyadav21/DSA-Series/tree/master/3110-score-of-a-string) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/surajyadav21/DSA-Series/tree/master/3541-find-most-frequent-vowel-and-consonant) |
